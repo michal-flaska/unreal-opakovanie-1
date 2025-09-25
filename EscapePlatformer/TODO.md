@@ -1,0 +1,7 @@
+- zbavit sa castovania
+  - vsetko sa bude robit priamo v panacikovi
+  - panacik priamo aktivuje event ktory zmeni values ostatnych variables
+- prerobit kolizie
+  - dat tam get player character
+  - branchovat to
+  - dat tam interfaces
